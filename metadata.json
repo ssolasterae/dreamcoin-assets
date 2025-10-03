@@ -1,13 +1,26 @@
 {
   "name": "DreamCoin",
   "symbol": "DRM",
+  "description": "DreamCoin is a custom Solana token created by Emmett Creel and Dreamscaper Music L.L.C. Built for community, creativity, and future projects.",
   "image": "https://ssolasterae.github.io/dreamcoin-assets/DRMCoinLogo.png",
+  "attributes": [
+    {
+      "trait_type": "Creator",
+      "value": "Dreamscaper Music L.L.C."
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    }
+  ],
   "properties": {
     "files": [
       {
         "uri": "https://ssolasterae.github.io/dreamcoin-assets/DRMCoinLogo.png",
         "type": "image/png"
       }
-    ]
+    ],
+    "category": "token"
   }
 }
+
