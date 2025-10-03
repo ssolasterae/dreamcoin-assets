@@ -1,0 +1,16 @@
+{
+  "name": "DreamCoin",
+  "symbol": "DRM",
+  "description": "DreamCoin — the Rabbit of Dreamscapers Music.",
+  "image": "https://ssolasterae.github.io/dreamcoin-assets/DRMCoin%20Logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ssolasterae.github.io/dreamcoin-assets/DRMCoin%20Logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
