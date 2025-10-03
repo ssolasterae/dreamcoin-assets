@@ -1,11 +1,11 @@
 {
   "name": "DreamCoin",
   "symbol": "DRM",
-  "image": "https://ssolasterae.github.io/dreamcoin-assets/DRMCoin%20Logo.png",
+  "image": "https://ssolasterae.github.io/dreamcoin-assets/DRMCoinLogo.png",
   "properties": {
     "files": [
       {
-        "uri": "https://ssolasterae.github.io/dreamcoin-assets/DRMCoin%20Logo.png",
+        "uri": "https://ssolasterae.github.io/dreamcoin-assets/DRMCoinLogo.png",
         "type": "image/png"
       }
     ]
