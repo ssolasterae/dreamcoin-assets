@@ -1,6 +1,7 @@
 {
   "name": "DreamCoin",
   "symbol": "DRM",
+  "version": "2.0 – Supply Locked",
   "description": "DreamCoin (DRM) is the official community token of Dreamscaper Music L.L.C., founded by Emmett Creel. Total supply permanently capped at 1,000,000,000 DRM. Treasury assets are secured in the DreamCoin Jupiter Vault for long-term ecosystem growth, creativity, and community rewards.",
   "image": "https://ssolasterae.github.io/dreamcoin-assets/DRMCoinLogo.png",
   "attributes": [
