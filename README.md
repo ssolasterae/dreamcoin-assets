@@ -1,4 +1,4 @@
-# 🪙 DreamCoin (DRM)
+# DreamCoin (DRM)
 
 ![Solana](https://img.shields.io/badge/Blockchain-Solana-blue?logo=solana&logoColor=white)
 ![Supply Locked](https://img.shields.io/badge/Supply-Locked-green)
