@@ -1,4 +1,4 @@
-# DreamCoin (DRM)
+# DreamCoin X (DRMX)
 
 ![Solana](https://img.shields.io/badge/Blockchain-Solana-blue?logo=solana&logoColor=white)
 ![Supply Locked](https://img.shields.io/badge/Supply-Locked-green)
@@ -6,15 +6,15 @@
 ![Status](https://img.shields.io/badge/Mint%20Authority-Revoked-red)
 ![Treasury](https://img.shields.io/badge/Treasury%20Vault-Jupiter%20Vault-purple)
 
-**DreamCoin** is the official community token of **Dreamscapers Music L.L.C.**, created by **Emmett Creel**.  
-Built on the **Solana** blockchain, DreamCoin powers creative ecosystems, artist collaborations, and long-term cultural projects under the Dreamscapers Music brand.
+**DreamCoin X** is the official community token of **Dreamscapers Music L.L.C.**, created by **Emmett Creel**.  
+Built on the **Solana** blockchain, DreamCoin X powers creative ecosystems, artist collaborations, and long-term cultural projects under the Dreamscapers Music brand.
 
 ---
 
 ## Supply & Governance Status
 | Field | Value |
 |:------|:------|
-| **Total Supply** | 1,000,000,000 DRM (fixed / locked) |
+| **Total Supply** | 1,000,000,000 DRMX (fixed / locked) |
 | **Mint Authority** | Revoked |
 | **Freeze Authority** | Revoked |
 | **Treasury Vault (Jupiter)** | `BRrk4DUknDkjEdJfgq6wbEVsrtZxck5EFfUK2ZfeNHgV` |
@@ -28,8 +28,8 @@ Built on the **Solana** blockchain, DreamCoin powers creative ecosystems, artist
 **v2.0 – Supply Locked**  
 Updated October 6, 2025
 
-This version finalizes DreamCoin’s on-chain configuration:
-- Supply permanently capped at 1 billion DRM  
+This version finalizes DreamCoin X’s on-chain configuration:
+- Supply permanently capped at 1 billion DRMX
 - Mint & Freeze authorities revoked  
 - Treasury Vault established for long-term ecosystem growth  
 - Metadata updated for wallet & explorer compatibility  
@@ -46,14 +46,14 @@ This version finalizes DreamCoin’s on-chain configuration:
 ---
 
 ## Mission
-DreamCoin exists to bridge music, art, and blockchain innovation.  
+DreamCoin X exists to bridge music, art, and blockchain innovation.  
 It supports creative independence, sustainable artist economies, and transparent community participation within the Dreamscapers Music universe.
 
 ---
 
 ## Future Roadmap
 - Artist & Creator Staking Rewards  
-- DreamCoin Treasury DAO Launch  
+- DreamCoin X Treasury DAO Launch  
 - DreamLab Ecosystem Integrations  
 - Cross-project collaborations with Tune Gang and other Dreamscapers entities  
 
@@ -61,6 +61,6 @@ It supports creative independence, sustainable artist economies, and transparent
 
 ## Verification Footer
 **Verified Mint:** [`3KizXsrCxrFMcRGdGcovd1UAKyp3JvfrMYp3EVn2EiUp`](https://solscan.io/token/3KizXsrCxrFMcRGdGcovd1UAKyp3JvfrMYp3EVn2EiUp)  
-**Metadata Hash:** `v2.0–SupplyLocked` (DreamCoin official)  
+**Metadata Hash:** `v2.0–SupplyLocked` (DreamCoin X official)  
 **Governance Entity:** Dreamscapers Music L.L.C.  
 © 2025 Dreamscapers Music L.L.C. – All rights reserved.
