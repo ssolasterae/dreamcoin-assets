@@ -18,7 +18,7 @@ Built on the **Solana** blockchain, DreamCoin X powers creative ecosystems, arti
 | **Mint Authority** | Revoked |
 | **Freeze Authority** | Revoked |
 | **Treasury Vault (Jupiter)** | `BRrk4DUknDkjEdJfgq6wbEVsrtZxck5EFfUK2ZfeNHgV` |
-| **Circulating Supply** | ≈ 1,000,000 DRM |
+| **Circulating Supply** | ≈ 1,000,000 DRMX |
 | **Token Mint** | `3KizXsrCxrFMcRGdGcovd1UAKyp3JvfrMYp3EVn2EiUp` |
 | **Blockchain** | Solana Mainnet-Beta |
 
