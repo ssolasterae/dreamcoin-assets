@@ -39,7 +39,7 @@ This version finalizes DreamCoin X’s on-chain configuration:
 ## Resources
 - **Official Entity:** Dreamscapers Music L.L.C.  
 - **Repository:** [Dreamscapers Music GitHub](https://github.com/ssolasterae)  
-- **Explorer Link:** [View on Solscan](https://solscan.io/token/3KizXsrCxrFMcRGd1UAKyp3JvfrMYp3EVn2EiUp)  
+- **Explorer Link:** **Explorer Link:** [View on Solscan](https://solscan.io/token/3KizXsrCxrFMcRGdGcovd1UAKyp3JvfrMYp3EVn2EiUp)  
 - **Logo Asset:** [DRMCoinLogo.png](https://ssolasterae.github.io/dreamcoin-assets/DRMCoinLogo.png)  
 - **Metadata File:** [metadata.json (v2.0 – Supply Locked)](https://ssolasterae.github.io/dreamcoin-assets/metadata.json)
 
